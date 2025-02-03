@@ -1,0 +1,21 @@
+﻿Name,Latitude,Longitude,House Type,Water Source,Water Ph,Occupation,Half-Yearly Income,Member of Family,Nearest Market Distance
+House 1,89.65573439,25.9369312,Brick building,Tubewell,6.5,Farmer,200000,,0
+House 2,89.59921631,25.92252318,Tinsheed,Tubewell,8,Farmer,25000,7,1
+House 3,89.65775981,25.76538923,Brick building,Nearby River ,6,Bussinessman,50000,6,1
+House 4,89.60454962,25.65674138,Brick building,WASA supply ,6.9,Banker,25000,5,0
+House 5,89.75707903,25.60717968,Brick building,Nearby River ,7.1,Farmer,37000,9,1
+House 6,89.66796514,25.55645269,Tinsheed,Tubewell,7,Bussinessman,30000,,0
+House 7,89.58266287,25.75776785,Brick building,WASA supply ,7.12,Banker,,5,0
+House 8,89.62603137,25.69619362,Tinsheed,Tubewell,7,Bussinessman,45000,8,1
+House 9,89.77364452,25.49681554,Brick building,Nearby River ,6.5,Farmer,35000,9,0
+House 10,89.60173125,25.96778889,Tinsheed,Tubewell,7,Vendor,56000,4,1
+House 11,89.66823287,26.08779228,Brick building,WASA supply ,6.5,Bussinessman,,7,1
+House 12,89.69624055,25.89727627,Brick building,WASA supply ,6,Farmer,80000,5,0
+House 13,89.66085903,26.02742202,Brick building,Tubewell,7,Bussinessman,,,0
+House 14,89.81627207,25.64980501,Tinsheed,Tubewell,6.9,Vendor,12000,7,1
+House 15,89.82481961,25.50496239,Brick building,Tubewell,6.87,Farmer,14000,5,0
+House 16,89.64772237,25.6243981,Tinsheed,Nearby River ,3.5,Vendor,,8,0
+House 17,89.76338676,25.80830415,Tinsheed,Tubewell,7,Bussinessman,23000,,1
+House 18,89.82399821,25.89374909,Tinsheed,Tubewell,5.5,Bussinessman,36000,8,1
+House 19,89.52115458,25.74004657,Tinsheed,Nearby River ,4,Farmer,,,0
+House 20,89.74873649,25.95082549,Brick building,Tubewell,7,Bussinessman,50000,6,1
